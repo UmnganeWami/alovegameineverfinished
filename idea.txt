@@ -1,0 +1,20 @@
+you have a gun
+you have a limited amount of times you can shoot the other player
+each turn you choose a set amount of actions to do
+your two options are "shoot other player"
+or "shoot the air" (or maybe yourself? maybe in higher rounds you do actually shoot yourself. shrug.)
+
+
+ooor. its one person with a gun, another person theyre trying to kill. they have a limited amount of each option.
+
+you can do smth like "shoot air air air shoot shoot", maybe the ui shows some that might have a shot and some that might not? and also possibly how many
+shots there are in the gun?
+
+it could be more like balatro. your given five (maybe six? sounds better.) shots each reload. half are blank and the others are not.
+
+--------------------------
+
+OK SO. each turn you get six bullets.
+you choose for each bullet which you're going to do. either shoot it at the person or shoot it in the air.
+you only can shoot half of them at the person. or maybe i can think of another way of making it so they cant just
+shoot all into the player... shurg.

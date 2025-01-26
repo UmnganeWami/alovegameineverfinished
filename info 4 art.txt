@@ -1,0 +1,2 @@
+original: 35
+lowest point: 5

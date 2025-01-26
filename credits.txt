@@ -1,0 +1,1 @@
+comic sans font: info about it in assets/licenses/comicsansfont
